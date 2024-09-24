@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "allowImportingTsExtensions": true,
+    "esModuleInterop": true, 
+    "noEmit": true, 
+    "strict": true,
+    "lib": ["ES2015", "DOM"]
+  }
+}
